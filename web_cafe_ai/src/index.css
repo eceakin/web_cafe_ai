@@ -5,3 +5,17 @@ body {
   font-family: 'Roboto', sans-serif;
 
 }
+/* Chatbot scrollbar */
+.chatbot-scrollbar::-webkit-scrollbar {
+  width: 6px;
+}
+.chatbot-scrollbar::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+.chatbot-scrollbar::-webkit-scrollbar-thumb {
+  background: #f472b6;
+  border-radius: 3px;
+}
+.chatbot-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: #ec4899;
+}
