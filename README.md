@@ -1,7 +1,7 @@
 ## 📱 Screenshots
 
 <div align="center">
-  <img src="src/assets/screenshots/home.png" width="30%" alt="Home Page">
+  <img src="web_cafe_ai/src/assets/screenshots/home.png" width="30%" alt="Home Page">
   <img src="assets/screenshots/menu.png" width="30%" alt="Menu Section"> 
   <img src="assets/screenshots/about.png" width="30%" alt="About Section">
 </div>
