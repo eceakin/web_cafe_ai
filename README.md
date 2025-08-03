@@ -46,18 +46,19 @@ My Sweet Cafe is a modern, responsive cafe website featuring an AI-powered chatb
  
 
 ## Installation
-1. Clone the repository
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+- 1. Clone the repository
+  - git clone https://github.com/your-username/your-repo-name.git
+  - cd your-repo-name
 
-2. Install dependencies
-   npm install
-3. Configure environment
-   Create a .env file in the project root:
-   VITE_API_URL=https://your-chatbot-api-endpoint
-4. Run the development server
-   npm run dev
+- 2. Install dependencies
+   - npm install
+- 3. Configure environment
+   - Create a .env file in the project root:
+   - VITE_API_URL=https://your-chatbot-api-endpoint
+- 4. Run the development server
+   - npm run dev
 
 
 ## Customization
-To customize the chatbot responses and company information, modify the CompanyInfo constant in your project. The chatbot greeting message and hidden company information can be adjusted in the initial chat history state.
+- To customize the chatbot responses and company information, modify the CompanyInfo constant in your project. 
+- The chatbot greeting message and hidden company information can be adjusted in the initial chat history state.
