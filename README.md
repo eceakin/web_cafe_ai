@@ -10,6 +10,8 @@
   <img src="web_cafe_ai/src/assets/screenshots/chatbot1.png" width="45%" alt="Chatbot Interface">
   <img src="web_cafe_ai/src/assets/screenshots/chatbot2.png" width="45%" alt="Chatbot Conversation">
 </div>
+
+  
 ## Overview
 
 My Sweet Cafe is a modern, responsive cafe website featuring an AI-powered chatbot assistant. This React-based application showcases a beautiful cafe interface with menu sections, about page, and an interactive chatbot that helps customers with inquiries.
