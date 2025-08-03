@@ -44,7 +44,7 @@ My Sweet Cafe is a modern, responsive cafe website featuring an AI-powered chatb
   - react-scroll for navigation
 
 - **AI Chatbot**
-  - Google Generative AI API
+  - Google GEMINI AI API
   - Custom chat components
   - Message history management
  
@@ -66,3 +66,6 @@ My Sweet Cafe is a modern, responsive cafe website featuring an AI-powered chatb
 ## Customization
 - To customize the chatbot responses and company information, modify the CompanyInfo constant in your project. 
 - The chatbot greeting message and hidden company information can be adjusted in the initial chat history state.
+
+## Contributing
+- Contributions are welcome! Please fork the repository and create a pull request with your improvements.
