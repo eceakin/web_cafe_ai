@@ -1,4 +1,4 @@
-export const companyInfo = `
+export const CompanyInfo = `
 Introduction: Hi there! I'm your friendly Sweet Crumbs Bakery chatbot, here to help with anything you need related to our bakery. Whether you're curious about our menu, want to place a custom order, or just need a sweet recommendation, I’ve got you covered!  
 
 Details: Sweet Crumbs Bakery is your go-to spot for delightful pastries, cakes, and baked goods that bring joy to every bite. Inspired by global flavors and homemade traditions, we create treats that are perfect for any occasion — from everyday indulgence to special celebrations.  
