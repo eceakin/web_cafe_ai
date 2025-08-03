@@ -1,12 +1,3 @@
-<img width="1920" height="1080" alt="Ekran Görüntüsü (215)" src="https://github.com/user-attachments/assets/24d7877c-38f4-499c-a3af-7961367fa33a" /><img width="1920" height="1080" alt="Ekran Görüntüsü (214)" src="https://github.com/user-attachments/assets/1ba4bfb0-cda6-43cb-abdf-68b6e86475bf" /># My Sweet Cafe - AI-Powered Cafe Website
-
-![Uploading Ekran Görüntüsü (214).png![U<img width="1920" height="1080" alt="Ekran Görüntüsü (219)" src="https://github.com/user-attachments/assets/a8e8140f-5950-44e2-a6b7-e764f5d1a623" />
-<img width="1920" height="1080" alt="Ekran Görüntüsü (218)" src="https://github.com/user-attachments/assets/53ca6eee-3610-48c7-ade9-cc15b8d5e0c9" />
-<img width="1920" height="1080" alt="Ekran Görüntüsü (217)" src="https://github.com/user-attachments/assets/a7b57b7d-f049-428e-894d-841f59849777" />
-ploading Ekran Görüntüsü (215).png…]()<img width="1920" height="1080" alt="Ekran Görüntüsü (221)" src="https://github.com/user-attachments/assets/c6144095-5a76-4e61-bc28-b4c6d93e62b7" />
-<img width="1920" height="1080" alt="Ekran Görüntüsü (220)" src="https://github.com/user-attachments/assets/7fe13d04-582d-42d0-ac4d-1443592b095a" />
-
-…]()
 
 ## Overview
 
