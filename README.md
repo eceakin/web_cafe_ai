@@ -1,14 +1,14 @@
 ## 📱 Screenshots
 
 <div align="center">
-  <img src="web_cafe_ai/src/assets/screenshots/home.png" width="30%" alt="Home Page">
-  <img src="web_cafe_ai/src/assets/screenshots/menu.png" width="30%" alt="Menu Section"> 
-  <img src="web_cafe_ai/src/assets/screenshots/about.png" width="30%" alt="About Section">
+  <img src="cafe_website_chatbot/src/assets/screenshots/home.png" width="30%" alt="Home Page">
+  <img src="cafe_website_chatbot/src/assets/screenshots/menu.png" width="30%" alt="Menu Section"> 
+  <img src="cafe_website_chatbot/src/assets/screenshots/about.png" width="30%" alt="About Section">
 </div>
 
 <div align="center">
-  <img src="web_cafe_ai/src/assets/screenshots/chatbot1.png" width="45%" alt="Chatbot Interface">
-  <img src="web_cafe_ai/src/assets/screenshots/chatbot2.png" width="45%" alt="Chatbot Conversation">
+  <img src="cafe_website_chatbot/src/assets/screenshots/chatbot1.png" width="45%" alt="Chatbot Interface">
+  <img src="cafe_website_chatbot/src/assets/screenshots/chatbot2.png" width="45%" alt="Chatbot Conversation">
 </div>
 
   
