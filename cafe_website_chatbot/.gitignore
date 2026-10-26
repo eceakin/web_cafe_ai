@@ -24,3 +24,6 @@ dist-ssr
 *.sw?
 
 # Environment variables
+
+# Local environment variables (API keys)
+.env
